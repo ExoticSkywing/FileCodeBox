@@ -67,8 +67,8 @@ const listenInput = (num: number) => {
     code.value += num
   }
 };
-const name = atob('RmlsZUNvZGVCb3ggVjIuMCBCZXRh');
-const url = atob('aHR0cHM6Ly9naXRodWIuY29tL3Zhc3RzYS9GaWxlQ29kZUJveA==');
+const name = 洗夹几;
+const url = https://share.tsmoe.com;
 </script>
 
 <template>
